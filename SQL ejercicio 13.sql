@@ -1,5 +1,5 @@
 --EJERCICIO 13
---¿Cuantos empleados tienes por posicion y por ciudad ?
+--Â¿Cuantos empleados tienes por posicion y por ciudad ?
 
 USE Northwind
 GO

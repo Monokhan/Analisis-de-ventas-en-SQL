@@ -1,5 +1,5 @@
 --EJERCICIO  10
---Número de ordenes por clientes
+--NÃºmero de ordenes por clientes
 
 USE Northwind
 GO

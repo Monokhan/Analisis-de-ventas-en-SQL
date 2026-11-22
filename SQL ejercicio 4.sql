@@ -1,6 +1,6 @@
 --Ejercicio 4
 --Encontrar las ordenes que tardaron mas de 2 dias en entregarse despues de ser realizadas por el usuario, donde el valor sea mayor de 10.000
---Mostrar número de dias, fecha de la orden, customer ID y pais de envio
+--Mostrar nÃºmero de dias, fecha de la orden, customer ID y pais de envio
 
 USE Northwind
 GO

@@ -1,6 +1,6 @@
 --Ejercicio 8
---¿Que Clientes generaron ventas por arriba del promedio del total de ventas?
---Filtrar por año
+--Â¿Que Clientes generaron ventas por arriba del promedio del total de ventas?
+--Filtrar por aÃ±o
 
 USE Northwind
 GO

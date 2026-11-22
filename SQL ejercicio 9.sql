@@ -1,5 +1,5 @@
 --EJERCICIO 9
---¿Que clientes no han comprado en los ultimos 20 meses?
+--Â¿Que clientes no han comprado en los ultimos 20 meses?
 
 USE Northwind
 GO

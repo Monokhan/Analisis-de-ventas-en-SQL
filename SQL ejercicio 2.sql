@@ -1,5 +1,5 @@
 --Ejercicio 2
---Encuentra el producto que tiene el segundo precio mas alto en la compañia
+--Encuentra el producto que tiene el segundo precio mas alto en la compaÃ±ia
 
 --buscar el product ID 29, que tiene un valor de 123,79 , que corresponde al segundo item de mayor valor
 

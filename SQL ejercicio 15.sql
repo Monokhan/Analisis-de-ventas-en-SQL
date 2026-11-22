@@ -1,5 +1,5 @@
 --EJERCICIO 15
---¿Cuantos empleados son mayores de 70 años?
+--Â¿Cuantos empleados son mayores de 70 aÃ±os?
 
 USE Northwind
 GO
